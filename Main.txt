@@ -1,2 +1,4 @@
 Main Text File 
 minkyung chunjae
+메인 텍스트 파일 내용
+1234567890
